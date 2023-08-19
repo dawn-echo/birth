@@ -5,6 +5,8 @@
   "main": "index.js",
   "devDependencies": {
     "browser-sync": "^2.18.13",
+    "cssnano": "^6.0.1",
+    "postcss": "^8.4.28",
     "run-script-os": "^1.0.2"
   },
   "scripts": {
@@ -27,6 +29,5 @@
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/faahim/happy-birthday#readme"
 }
